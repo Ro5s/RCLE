@@ -13,3 +13,7 @@
 ## Redemption QR: 
 
 ![Redeem RCLE on OpenLaw](https://github.com/Ro5s/RCLE/blob/master/frame.png)
+
+## Chat 
+
+[💬](https://gitter.im/LegalEngineerChat/community)
