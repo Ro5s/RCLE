@@ -10,4 +10,6 @@
 📬 [Token Address](https://etherscan.io/address/0x5a844590c5b8f40ae56190771d06c60b9ab1da1c) |
 🤝 [Redemption Form](https://app.openlaw.io/template/Redeem%20RCLE)
 
-Redemption QR: 
+## Redemption QR: 
+
+![Redeem RCLE on OpenLaw](https://github.com/Ro5s/RCLE/blob/master/frame.png)
