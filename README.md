@@ -11,7 +11,7 @@
 
 ## Redemption QR: 
 
-![Redeem RCLE on OpenLaw](https://github.com/Ro5s/RCLE/blob/master/frame(1).png)
+![[Redeem RCLE on OpenLaw](https://app.openlaw.io/template/Redeem%20RCLE)](https://github.com/Ro5s/RCLE/blob/master/frame(1).png)
 
 ## Chat 
 
