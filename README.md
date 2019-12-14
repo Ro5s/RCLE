@@ -12,4 +12,4 @@
 
 📊 | [***Market Stats***](https://uniswap.info/token/0x5a844590c5b8f40ae56190771d06c60b9ab1da1c)
 
-💬 | [***Public Chat***](https://gitter.im/LegalEngineerChat/community)
+💬 | [***Community Chat***](https://gitter.im/LegalEngineerChat/community)
