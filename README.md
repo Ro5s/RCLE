@@ -9,19 +9,10 @@
 📬 [Token Address](https://etherscan.io/address/0x5a844590c5b8f40ae56190771d06c60b9ab1da1c) |
 🤝 [Redemption Form](https://app.openlaw.io/template/Redeem%20RCLE)
 
-## Redemption QR: 
-
-![[Redeem RCLE on OpenLaw](https://app.openlaw.io/template/Redeem%20RCLE)](https://github.com/Ro5s/RCLE/blob/master/frame(1).png)
-
 ## Chat 
 
 [💬](https://gitter.im/LegalEngineerChat/community)
 
 ## Stats
 
-* [**2 RCLE Burned 🏵️🔥**](https://etherscan.io/tx/0x4ff37e536a93041453eeed34da47cafcb4a46fef645a5ad36562fc7bf0716b7c) for legal engineering consultation (Zoom), [custom "BountyBoard" smart contract](https://etherscan.io/address/0x1c7e265685914927925d6e930a809e942b538db3#code) and accompanying OpenLaw forms.
-
-## Offers
-
-* **4 RCLE 🏵️** for legal engineering consultation (Zoom), custom smart contract drafting/deployment and accompanying OpenLaw forms that interact with smart contract. 5 Business Day Delivery from Redemption.
-
+* **8 RCLE Redeemed 🏵️🔥**
